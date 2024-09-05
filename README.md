@@ -1,6 +1,6 @@
 # MegaAndi3000
 
-👋 Hi! I'm a Math student who likes to code in his free time. And some of my project I might even like to share ;)
+👋 Hi! I'm a Math student who likes to code in his free time. And some of my projects I might even like to share ;)
 
 ## Github Stats
 
